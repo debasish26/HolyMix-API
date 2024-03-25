@@ -35,4 +35,4 @@ wrangler deploy
 - 
 Stay informed about the latest updates by joining our channels / groups :
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Discord%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://discord.gg/fqR9CyC8uq) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots_Support)
+[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Discord%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://discord.gg/fqR9CyC8uq) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://t.me/AnshumanBotSupport)
